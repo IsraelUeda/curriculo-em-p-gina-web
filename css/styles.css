@@ -10972,7 +10972,8 @@ section.resume-section .resume-section-content {
 }
 
 .seta {
-  margin-top: 30px; /* Definindo a margem no topo */
+  margin-top: 30px;
+  align-items: center; /* Definindo a margem no topo */
 }
 .seta i {
   font-size: 24px; /* Tamanho do ícone */
