@@ -10970,3 +10970,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.seta {
+  margin-top: 30px; /* Definindo a margem no topo */
+}
+.seta i {
+  font-size: 24px; /* Tamanho do ícone */
+}
